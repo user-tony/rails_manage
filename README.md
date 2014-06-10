@@ -1,2 +1,3 @@
-ruby_my_admin
-=============
+rails_manage
+
+rails content manage
